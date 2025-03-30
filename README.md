@@ -1,6 +1,6 @@
 # wokwi_mini-Project
 <p align="center">  
-    <img src="https://tenor.com/view/arduino-running-gif-27585839" alt="MasterHead" width="600"/>  
+    <img src="https://media1.tenor.com/m/lN2h_m1Q14oAAAAC/arduino-running.gif" alt="MasterHead" width="600"/>  
 </p>
 
 
