@@ -1,3 +1,7 @@
 # wokwi_mini-Project
-<div class="tenor-gif-embed" data-postid="27585839" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/arduino-running-gif-27585839">Arduino Running GIF</a>from <a href="https://tenor.com/search/arduino-gifs">Arduino GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">  
+    <img src="https://media.tenor.com/Yzeh4Z4UQuAAAAAM/viciadoemcodar.gif" alt="MasterHead" width="600"/>  
+</p>
+
+
 Ini adalah repository untuk proyek wokwi_mini-Project, yang berfokus pada penggunaan Wokwi untuk mensimulasikan dan mengembangkan aplikasi berbasis Arduino. Proyek ini bertujuan untuk memberikan solusi praktis bagi pengembang dan penggemar Arduino yang ingin menguji kode mereka dalam lingkungan simulasi tanpa memerlukan perangkat keras fisik.
